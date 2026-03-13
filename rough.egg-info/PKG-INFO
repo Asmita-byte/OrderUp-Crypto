@@ -1,0 +1,7 @@
+Metadata-Version: 2.1
+Name: rough
+Version: 0.0.1
+Author: Asmita
+Author-email: asmita_pa2508mch273@iitp.ac.in
+Requires-Dist: python-binance
+Requires-Dist: requests
